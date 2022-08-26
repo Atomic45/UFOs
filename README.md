@@ -1,7 +1,8 @@
 # UFO Sightings Challenge
 
 ## Overview
-The purpose of this analysis is to provide an interactive website that provides data logged for UFO sightings. The website is ideal for UFO enthusiasts that are interested to research UFO sightings for their own evaluations. The website can be found here: file: 
+The purpose of this analysis is to provide an interactive website that provides data logged for UFO sightings. The website is ideal for UFO enthusiasts that are interested to research UFO sightings for their own evaluations. The website can be found here: https/Sandra.github.io/UFOs
+
 The following tools were used: 
 
 - Javascript

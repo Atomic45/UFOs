@@ -27,4 +27,4 @@ This is an interesting website for someone that wants to read about UFO sighting
 
 1. It would be more interactive to try to add a search engine in place of filters. This way the user can search for a specific word. This will help in keeping the filters to a minimum, such as, type only the city name in the filter with a "keyword" for the search criteria. 
 2. Adding more articles and interesting facts or images will capture the user's interest to continue to use the website. 
-3. Ability to update the website for recent sightings, like wikipedia. 
+3. Ability to update the website for recent sightings, like wikipedia.  
